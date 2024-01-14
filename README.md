@@ -1,1 +1,1 @@
-## python 이론 정리
+## python basic & practice
